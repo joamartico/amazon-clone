@@ -1,0 +1,8 @@
+.orders__page {
+    background: #EAEDED;
+    min-height: 100vh;
+}
+
+.orders {
+    padding: 20px 80px;
+}
